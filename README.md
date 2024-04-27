@@ -15,9 +15,9 @@
     <b>Sou BACHAREL em Engenharia da Computação 🎓 pela Centro Universitário Una e estou empenhado no estudo de programação e desenvolvimento web nas plataformas da Alura e da Udemy 💻. Sou aficionado por tecnologia e estou sempre desenvolvendo metodologias e resoluções modernas pensando no mercado de trabalho. Tenho experiência com hardware, software e redes.🌐</b></p><br>
     
 <h3 align="center">⬇️</b>Ferramentas e Tecnologias de estudo e desenvolvimento</b>⬇️</h3>
-<p align="center">🔰Meu objetivo é me tornar um profissional completo e moderno.🔰</p>
 
-<table align="center" height="300px">
+
+<table align="center" height="588px">
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
@@ -137,7 +137,9 @@
 <a href="mailto:pedrohenrisilva31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 </div>
+<br>
 
+<p align="center">🔰Meu objetivo é me tornar um profissional completo e moderno.🔰</p>
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
@@ -145,4 +147,4 @@
 </div>
 <p align="center"><b>Contagem de Visitantes</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fxmezmerize&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p><br>
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fxmezmerize&s=50&c=8033ff&bg=00000000&no=7&ff=digi&tb=Visitas%3A++&ta=" /></p><br>
