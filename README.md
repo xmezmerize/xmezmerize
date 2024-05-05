@@ -12,7 +12,7 @@
 <div>
   <br><br>
   <p align="center">
-    <b>Sou BACHAREL em Engenharia da Computação 🎓 pela Centro Universitário Una e estou empenhado no estudo de programação e desenvolvimento web nas plataformas da Alura e da Udemy 💻. Sou aficionado por tecnologia e estou sempre desenvolvendo metodologias e resoluções modernas pensando no mercado de trabalho. Tenho experiência com hardware, software e redes.🌐</b></p><br>
+    <b>Sou graduando em Engenharia da Computação 🎓 pela Centro Universitário Una e estou empenhado no estudo de programação e desenvolvimento web nas plataformas da Alura e da Udemy 💻. Sou aficionado por tecnologia e estou sempre desenvolvendo metodologias e resoluções modernas pensando no mercado de trabalho. Tenho experiência com hardware, software e redes.🌐</b></p><br>
     
 <h3 align="center">⬇️</b>Ferramentas e Tecnologias de estudo e desenvolvimento</b>⬇️</h3>
 
