@@ -29,18 +29,18 @@
         <sub><b><pre>CSS3</pre></b></sub>
       </a>
     </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Javascript icon"/><br/>
-        <sub><b><pre>Javascript</pre></b></sub>
+      <td align="center">
+      <a href="https://getbootstrap.com/">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
+        <sub><b><pre>Bootstrap</pre></b></sub>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://pt-br.reactjs.org/">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65px" alt="React icon"/>
-        <sub><b><pre>React.js</pre></b></sub>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Javascript icon"/><br/>
+        <sub><b><pre>Javascript</pre></b></sub>
       </a>
     </td>
     <td align="center">
@@ -57,11 +57,12 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://www.mysql.com/">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="Postgresql icon"/>
-        <sub><b><pre>PostgreSQL</pre></b></sub>
+      <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65px" alt="React icon"/>
+        <sub><b><pre>React.js</pre></b></sub>
       </a>
+      </td>
     </td>
     <td align="center">
       <a href="https://www.mysql.com/">
@@ -70,11 +71,10 @@
       </a>
     </td>
       <td align="center">
-      <a href="https://getbootstrap.com/">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
-        <sub><b><pre>Bootstrap</pre></b></sub>
+      <a href="https://www.mysql.com/">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="Postgresql icon"/>
+        <sub><b><pre>PostgreSQL</pre></b></sub>
       </a>
-    </td>
   </tr>
 </table><br><br>
 
