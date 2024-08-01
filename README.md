@@ -20,10 +20,11 @@
    <img src="https://skillicons.dev/icons?i=bootstrap" width="30px" alt="Bootstrap icon"/>   
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
    <img src="https://skillicons.dev/icons?i=nodejs" width="30px" alt="Node.js icon"/> 
-   <img src="https://skillicons.dev/icons?i=express" width="30px" alt="Express.js icon"/>  
+   <img src="https://skillicons.dev/icons?i=express" width="30px" alt="Express.js icon"/> 
+   <img src="https://icongr.am/devicon/python-original.svg?size=125&color=141414" alt="python" width="30" height="30"/>
    <img src="https://skillicons.dev/icons?i=postgresql" width="30px" alt="Postgresql icon"/>  
    <img src="https://techstack-generator.vercel.app/react-icon.svg" width="30px" alt="React icon"/>   
-   <img src="https://techstack-generator.vercel.app/restapi-icon.svg"  width="30px" alt="REST API icon"/>   
+   <img src="https://techstack-generator.vercel.app/restapi-icon.svg"  width="30px" alt="REST API icon"/>  
   </div>
     
   ### 📞 Meus contatos
