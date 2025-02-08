@@ -12,21 +12,6 @@
 <p align="left"> 
 <b>Sou graduando em Engenharia da Computação 🎓 pela Centro Universitário Una e estou empenhado no estudo de programação e desenvolvimento web nas plataformas da Alura e da Udemy 💻. Sou aficionado por tecnologia e estou sempre buscando desenvolver metodologias e resoluções modernas pensando na evolução da sociedade e para atender as necessidades do mercado. Tenho experiência com hardware, software e redes.🌐</b></p> 
   
-  ### Stacks 🖥️
-
-  <div style="display: inline_block">
-   <img src="https://skillicons.dev/icons?i=html" width="30px" alt="HTML5 icon"/>
-   <img src="https://skillicons.dev/icons?i=css" width="30px" alt="CSS3 icon">
-   <img src="https://skillicons.dev/icons?i=bootstrap" width="30px" alt="Bootstrap icon"/>   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
-   <img src="https://skillicons.dev/icons?i=nodejs" width="30px" alt="Node.js icon"/> 
-   <img src="https://skillicons.dev/icons?i=express" width="30px" alt="Express.js icon"/> 
-   <img src="https://icongr.am/devicon/python-original.svg?size=125&color=141414" alt="python" width="30" height="30"/>
-   <img src="https://skillicons.dev/icons?i=postgresql" width="30px" alt="Postgresql icon"/>  
-   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="30px" alt="React icon"/>   
-   <img src="https://techstack-generator.vercel.app/restapi-icon.svg"  width="30px" alt="REST API icon"/>  
-  </div>
-    
   ### 📞 Meus contatos
   <div>
     <a href="https://instagram.com/pe.droo__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
