@@ -10,7 +10,7 @@
 
 <br>
 <p align="left"> 
-<b>Sou graduando em Engenharia da Computação 🎓 pela Centro Universitário Una e estou empenhado no estudo de programação e desenvolvimento web nas plataformas da Alura e da Udemy 💻. Sou aficionado por tecnologia e estou sempre buscando desenvolver metodologias e resoluções modernas pensando na evolução da sociedade e para atender as necessidades do mercado. Tenho experiência com hardware, software e redes.🌐</b></p> 
+<b>Sou graduando em Engenharia da Computação pelo Centro Universitário Una e estou empenhado no estudo de programação e desenvolvimento web nas plataformas da Alura e da Udemy. Sou aficionado por tecnologia e estou sempre buscando desenvolver metodologias e resoluções modernas pensando na evolução da sociedade e para atender as necessidades do mercado. Tenho experiência com hardware, software e redes.</b></p> 
   
   ### 📞 Meus contatos
   <div>
