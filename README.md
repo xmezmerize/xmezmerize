@@ -6,8 +6,8 @@
      align="right"/>
 
 ### 🚀 Sobre mim
-Sou um **Full Stack Developer** com atuação em **back-end, front-end e arquitetura de sistemas**, estou graduando **Engenharia de Computação**.  
-Minha experiência abrange desde **infra, hardware e redes** até **desenvolvimento de aplicações modernas**, com ênfase em **modelagem matemática, abstração lógica e boas práticas de engenharia de software**.  
+Atuo como **Full Stack Developer** com foco em **back-end, front-end e infra**, estou graduando **Engenharia de Computação**.  
+Minha experiência abrange desde **hardware e redes** até **desenvolvimento de soluções de software**, com ênfase em **modelagem matemática, abstração lógica e boas práticas de engenharia de software**.  
 
 Atualmente trabalho com:
 - **Frameworks e linguagens**: Flask, Django, FastAPI, React, Next.js  
@@ -36,14 +36,3 @@ Atualmente trabalho com:
 </div>
 
 ---
-
-### 📞 Contato
-<div>
-  <a href="mailto:contato@pedrohenrisilva31@gmail.com.br">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-silva-799b79260/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
