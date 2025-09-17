@@ -6,7 +6,7 @@
      align="right"/>
 
 ### 🚀 Sobre mim
-Sou **Full Stack Developer** com atuação em **back-end, front-end e arquitetura de sistemas**, graduando em **Engenharia de Computação**.  
+Sou um **Full Stack Developer** com atuação em **back-end, front-end e arquitetura de sistemas**, estou graduando **Engenharia de Computação**.  
 Minha experiência abrange desde **infra, hardware e redes** até **desenvolvimento de aplicações modernas**, com ênfase em **modelagem matemática, abstração lógica e boas práticas de engenharia de software**.  
 
 Atualmente trabalho com:
