@@ -5,7 +5,7 @@
      width="300px" 
      align="right"/>
 
-### 🚀 Sobre mim
+### Sobre mim
 Atuo como **Full Stack Developer** com foco em **back-end, front-end e infra**, estou graduando **Engenharia de Computação**.  
 Minha experiência abrange desde **hardware e redes** até **desenvolvimento de soluções de software**, com ênfase em **modelagem matemática, abstração lógica e boas práticas de engenharia de software**.  
 
@@ -18,7 +18,7 @@ Atualmente trabalho com:
 
 ---
 
-### 🔧 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 <div>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
